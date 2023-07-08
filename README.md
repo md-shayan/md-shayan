@@ -1,4 +1,4 @@
-# Hi, this is Shayan, I am a high school school student who is eager to learn computer programming.
+# Hi, This is Shayan, I am a high school student who is eagerly learning computer programming since a year.
 - I’m interested in mainly Machine learning and software development.
 - I’m currently learning problem solving in c++ for competitive programming.
 - I’m open to collaboratively work on projects in python and c++.
