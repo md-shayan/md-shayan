@@ -3,7 +3,7 @@
 - I’m interested in mainly **Algorithm design and core CS subjects**.
 - I’m currently learning *data structures and algorithms using C/C++* and **once I have a good grasp in them and the theory behind how a software is developed and other CS subject such as OS, DBMS and Networking, I would like to do my own research in the field and make my own projects.**
 - I'll be happy to help you out in any project which is related to my knowledge.
-- You can also connect through [LinkedIn](https://www.linkedin.com/in/shayan-mohammad-a68286278)
+- You can also connect me through [My LinkedIn.](https://www.linkedin.com/in/shayan-mohammad-a68286278)
 
 ### This year's goals:
 - [x] Familiarizing Myself With Programming Using Python. 
